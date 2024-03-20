@@ -1,0 +1,21 @@
+body {
+    background-color: #121212;
+}
+
+nav {
+    background-color: #1DB954;
+}
+
+i {
+    font-size: 40px;
+    margin-right: 10px;
+}
+
+#carouselExampleFade {
+    max-width: 1300px;
+}
+
+.card {
+    margin: 10px;
+    max-width: 500px;
+}
