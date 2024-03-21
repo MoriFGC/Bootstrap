@@ -6,6 +6,7 @@ nav {
     background-color: #1DB954;
 }
 
+/* icona di spotify */
 i {
     font-size: 40px;
     margin-right: 10px;
@@ -15,15 +16,24 @@ i {
     max-width: 1300px;
 }
 
+.card-link {
+    text-decoration: none;
+    color: #1DB954;
+}
+
 .card {
     margin: 10px;
     max-width: 500px;
+    background-color: #1DB954;
+    border: 0;
 }
 
 .list-group-item {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+    background-color: #1DB954;
+    border: 0;
 }
 
 footer {
